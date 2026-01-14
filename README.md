@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Configuring Teams</h1>
+<h1>osTicket - Configuring Groups/Teams</h1>
 
 The purpose of this tutorial is simply to create a Groups or a Team in a ticketing system environment. Once you have this Team created you can then assign users to it.<br />
 
