@@ -22,7 +22,7 @@ The purpose of this tutorial is simply to create a Groups or a Team in a ticketi
 
 - Step 1: Log in to osTicket as Administrator. Go to Admin Panel -> Agents -> Teams -> Add New Team
 - Step 2: Name your Team and set appropriate settings for it
-- Step 3: Observe how the Teams (SysAdmin) is active
+- Step 3: Observe how the Team "Online Banking" is active
 
 <p>
 <img width="1920" height="664" alt="image" src="https://github.com/user-attachments/assets/fe626135-15c1-4cf0-bec3-5bed366b38a6" />
